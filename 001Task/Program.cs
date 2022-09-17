@@ -19,6 +19,6 @@ else
    else
    {
       Console.Write("max = ");
-      Console.WriteLine(y);
+      Console.WriteLine(x);
    }
 }
